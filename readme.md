@@ -3,6 +3,7 @@
 **2.For each JavaScript Operator, write 2 examples.**
 
 **- Arithmetic Operators**
+
 (+) -addition
 ```
     x= 5 + 5;
@@ -56,6 +57,7 @@
 ```
 
 **-Assignment Operators**
+
 (=)
 ```
 x = 2;
@@ -93,7 +95,9 @@ x:2;
 y:5;
 ```
 **-Comparison Operators**
+
 Return false or true based on equality or difference between variables or values
+
 (==)  - equal to
 ```
 let x = 5;
@@ -186,6 +190,7 @@ console .log(y <= 5);
 ```
 
 **-Logical Operators**
+
 (&&)
 ```
 let x=9;
@@ -232,6 +237,7 @@ console.log(!(y !==x ))
 
 
 **-Bitwise Operators**
+
 Bit operators work on 32 bits numbers. Any numeric operand in the operation is converted into a 32 bit number. The result is converted back to a JavaScript number.
 
 (&) -AND
