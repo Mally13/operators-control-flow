@@ -1,6 +1,7 @@
 **1.List the symbols for each of the below Javascript operators**
 
 **2.For each JavaScript Operator, write 2 examples.**
+
 **- Arithmetic Operators**
 (+) -addition
 ```
